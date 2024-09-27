@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\nhom7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B258EB04-5A13-C4AF-C7D7-B55FC5BCF78F}|Assembly-CSharp.csproj|d:\\unity\\nhom7\\assets\\prefabs\\b\u00E0n\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B258EB04-5A13-C4AF-C7D7-B55FC5BCF78F}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\b\u00E0n\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\nhom7\\assets\\prefabs\\table\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\prefabs\\table\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\unity\\nhom7\\assets\\prefabs\\table\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\prefabs\\table\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "D:\\Unity\\nhom7\\Assets\\Prefabs\\b\u00E0n\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\b\u00E0n\\NewBehaviourScript.cs",
+              "ToolTip": "D:\\Unity\\nhom7\\Assets\\Prefabs\\b\u00E0n\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\b\u00E0n\\NewBehaviourScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:16:50.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "D:\\Unity\\nhom7\\Assets\\Prefabs\\Table\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\Table\\NewBehaviourScript.cs",
+              "ToolTip": "D:\\Unity\\nhom7\\Assets\\Prefabs\\Table\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\Table\\NewBehaviourScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:54:44.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "move.cs",
+              "DocumentMoniker": "D:\\Unity\\nhom7\\Assets\\Prefabs\\Table\\move.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\Table\\move.cs",
+              "ToolTip": "D:\\Unity\\nhom7\\Assets\\Prefabs\\Table\\move.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\Table\\move.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:46:17.089Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
